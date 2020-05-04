@@ -1,0 +1,3 @@
+<p>ESTA ES LA VISTA ADMINISTRADOR
+    
+</p>
